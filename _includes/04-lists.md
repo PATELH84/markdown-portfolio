@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# <h1> Favourites
+1. Mountains
+2. Beaches
