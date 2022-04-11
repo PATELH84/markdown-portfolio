@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# <h1> Atrributes
+#  1.Fast Learner
+#  2.Work-Dedicated
+  # ***I have emphasized the qualities***
